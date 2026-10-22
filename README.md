@@ -1,22 +1,48 @@
 # Vishnu Daggolu — Portfolio
 
-This repository contains the portfolio website for Vishnu Daggolu. The main HTML file is `Vishnu-daggolu-portfolio.html`.
+Welcome to my personal portfolio! 👋
 
-## View locally
+I'm a Computer Science graduate interested in Python programming, web development, and Generative AI.
 
-- Open `Vishnu-daggolu-portfolio.html` in your web browser.
+## 🌐 Live Portfolio
 
-## Contents
+Visit my website: [Vishnu Daggolu Portfolio](https://vishnureddy-d.github.io/Vishnu-daggolu-portfolio/)
 
-- `Vishnu-daggolu-portfolio.html` — Portfolio site (HTML).
+## 🛠️ Skills
 
-## Notes
+* Python
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Django
+* Generative AI
+* Google Cloud Vertex AI
+* Gemini API
 
-- Editing: update the HTML file directly and refresh the browser to see changes.
-- Questions or updates: contact the project owner.
-# Vishnu Daggolu — Portfolio
+## 🚀 Projects
 
-This repository contains the portfolio website for Vishnu Daggolu. The main HTML file is `Vishnu-daggolu-portfolio.html`.
+### 1. Personal Portfolio Website
+
+A personal website showcasing my profile, technical skills, and projects.
+
+### 2. EcoTrack — AI Green Energy Platform
+
+A Streamlit application that tracks daily carbon footprints using AI-powered activity extraction and emissions calculations.
+
+GitHub repository: [EcoTrack AI Green Energy Platform](https://github.com/vishnureddy-d/Ecotrack-AI-Green-Energy-Platform)
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) — Computer Science**
+
+Siddartha Educational Academy Group of Institutions, Tirupati, Andhra Pradesh.
+
+## 📫 Contact
+
+Please connect with me through my GitHub profile.
+
+GitHub: [@vishnureddy-d](https://github.com/vishnureddy-d)
 
 ## View locally
 
